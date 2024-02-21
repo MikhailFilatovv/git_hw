@@ -93,7 +93,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![commits graf](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn1.png)`
+[commits graf](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn1.png)`
 
 ### Задание 4
 
