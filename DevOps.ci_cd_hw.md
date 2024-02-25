@@ -44,7 +44,10 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-
+![skrin_pipe](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_dev7.png)
+![skrin_pipe](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_dev8.png)
+![skrin_pipe](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_dev9.png)
+![skrin_pipe](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_dev10.png)
 
 
 ### Задание 4
