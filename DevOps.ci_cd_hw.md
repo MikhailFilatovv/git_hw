@@ -49,7 +49,6 @@
 ![skrin_pipe](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_dev9.png)
 ![skrin_pipe](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_dev10.png)
 
-
 ### Задание 4
 
 
@@ -58,3 +57,5 @@
 Подсказка: используйте переменную BUILD_NUMBER.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+## Выполнено сразу вместе с заданием №3 ##
