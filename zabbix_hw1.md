@@ -27,7 +27,6 @@ commands:
 
 ##### Установка Zabbix  и PHP8.1:
 1. wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4+ubuntu22.04_all.deb
-2. dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
 3. sudo dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
 4. sudo apt update
 5. php --version
