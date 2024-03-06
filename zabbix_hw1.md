@@ -56,5 +56,18 @@ sudo systemctl enable zabbix-server zabbix-agent apache2
 
 ---
 
-![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab1.png)
+![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab2.png)
 
+---
+
+## Задание 3 со звёздочкой*
+Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
+
+#### Требования к результаты 
+1. Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
+
+--- 
+
+![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab3.png)
+
+---
