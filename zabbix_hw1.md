@@ -16,7 +16,7 @@
 
 ---
 
-![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab1.png)
+![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab1.jpg)
 
 commands:
 - Установка postgreSQL:
@@ -56,7 +56,7 @@ sudo systemctl enable zabbix-server zabbix-agent apache2
 
 ---
 
-![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab2.png)
+![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab2.jpg)
 
 ---
 
@@ -68,6 +68,6 @@ sudo systemctl enable zabbix-server zabbix-agent apache2
 
 --- 
 
-![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab3.png)
+![skrin_zab](https://github.com/MikhailFilatovv/git_hw/blob/main/img/skrn_zab3.jpg)
 
 ---
