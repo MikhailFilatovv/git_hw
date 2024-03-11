@@ -25,7 +25,7 @@
 
 ## Ответ:
 
-### [PKT-file задание 3](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/L4_1.pkt)
+### [PKT-file задание 1](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/L4_1.pkt)
 
 ![skrinshot](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/img/L4_skrn1.jpg)
 
