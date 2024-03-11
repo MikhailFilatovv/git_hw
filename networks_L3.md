@@ -63,8 +63,9 @@
 
 Доступности нет, т.к. не прописанных маршрутов в маршрутизаторах.
 
-[PKT-file_L3]()
-![skrinshot]()
+1. [PKT-file](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/L3_2.pkt)
+
+![skrinshot](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/img/L3_skrn2.jpg)
 ---
 
 ## Задание 3. Создание связности между сетями 
@@ -87,6 +88,7 @@
 --- 
 
  
-[PKT-file_L3]()
-![skrinshot]()
+1. [PKT-file](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/L3_3.pkt)
+
+![skrinshot](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/img/L3_skrn3.jpg)
 ---
