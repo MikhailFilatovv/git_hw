@@ -32,7 +32,8 @@
 
 Минимальная маска сети, необходимая для данного количества устройств "/28", т.к. в такую подсеть будет входить 14 хостов. (в маске 29 их всего 6, в нешем случае нам не хватит доступных адресов)
 
-[PKT-file](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/Files/L3_1.pkt)
+1. [PKT-file](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/L3_1.pkt)
+
 ![skrinshot](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/img/L3_skrn1.jpg)
 ---
 
