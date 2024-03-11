@@ -99,5 +99,5 @@
 ![skrinshot](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/img/L3_skrn4.jpg)
 
 ## вот последний файл
-1. [PKT-file](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/L3_3.pkt)
+1. [PKT-file задание 3](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/L3_3.pkt)
 ---
