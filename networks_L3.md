@@ -32,8 +32,8 @@
 
 Минимальная маска сети, необходимая для данного количества устройств "/28", т.к. в такую подсеть будет входить 14 хостов. (в маске 29 их всего 6, в нешем случае нам не хватит доступных адресов)
 
-[PKT-file](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/Files/L3%20%D1%81%D0%B5%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.pkt)
-![skrinshot]()
+[PKT-file](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/Files/L3_1.pkt)
+![skrinshot](https://github.com/MikhailFilatovv/homeworks_netology/blob/main/img/L3_skrn1.jpg)
 ---
 
 ## Задание 2. Подключение локальной сети 
