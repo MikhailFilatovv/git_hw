@@ -66,10 +66,10 @@ location / {
 ## Ответ:
 Через браузер захожу по IP гостевой ОС
 
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn1.png)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn3.png)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn2.png)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn4.png)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn1.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn3.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn2.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn4.jpg)
 
 ---
 
@@ -93,7 +93,7 @@ location / {
 
 Через браузер захожу по IP гостевой ОС
 
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn5.png)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn7.png)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn6.png)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn8.png)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn5.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn7.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn6.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn8.jpg)
