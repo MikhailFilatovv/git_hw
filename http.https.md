@@ -94,6 +94,6 @@ location / {
 Через браузер захожу по IP гостевой ОС
 
 ![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn5.jpg)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn7.jpg)
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn6.jpg)
 ![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn8.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn6.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/http_skrn7.jpg)
