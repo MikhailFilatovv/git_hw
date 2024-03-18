@@ -11,7 +11,7 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 ---
 
-![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/glab_skrn1.jpg)
+![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/glab_skrn1.png)
 
 ---
 
@@ -27,6 +27,6 @@
  * файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне; 
  * скриншоты с успешно собранными сборками.
 
- ![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/glab_skrn2.jpg)
+ ![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/glab_skrn2.png)
 
 [gitlab-ci.yml](https://raw.githubusercontent.com/MikhailFilatovv/homeworks_netology/main/Files/.gitlab-ci.yml)
