@@ -30,3 +30,5 @@
  ![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/glab_skrn2.png)
 
 [gitlab-ci.yml](https://raw.githubusercontent.com/MikhailFilatovv/homeworks_netology/main/Files/.gitlab-ci.yml)
+
+к сожалению не удалось поднять sonarqube в docker
