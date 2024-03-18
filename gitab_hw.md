@@ -29,4 +29,4 @@
 
  ![skrin](https://github.com/MikhailFilatovv/git_hw/blob/main/img/glab_skrn2.jpg)
 
-[gitlab-ci.yml](https://github.com/MikhailFilatovv/git_hw/blob/main/img/glab_skrn2.jpg)
+[gitlab-ci.yml](https://raw.githubusercontent.com/MikhailFilatovv/homeworks_netology/main/Files/.gitlab-ci.yml)
