@@ -29,7 +29,7 @@
 
 ---
 
-### Решение 1
+### Решение 2
 
 [bash script](https://github.com/MikhailFilatovv/homeworks_netology/raw/main/Files/check_script.sh)
 
