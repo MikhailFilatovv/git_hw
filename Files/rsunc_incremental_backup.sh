@@ -1,7 +1,7 @@
 #!/bin/bash
 
-log="/var/log/backup.log" # не уверен что правильно понял задачу
-rsync_log="/var/log/rsync/rsync_backup.log" # в этот файл записываем синхронизированные файлы
+log="/var/log/backup.log" 
+rsync_log="/var/log/rsync/rsync_backup.log" 
 dest="/backup/" 
 src="/home/skauron/"
 hostname=ansible-server
