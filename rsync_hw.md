@@ -41,7 +41,6 @@
 ---
 
 ### Решение 3
-скрипт:
 
 ![skrn](img/rsyn_skrn3.png)
 
@@ -56,7 +55,8 @@
 ---
 
 ### Решение 4
-[скрипт](Files/rsync_incremental_backup.sh) создания бэкапа
+[скрипт](Files/rsunc_incremental_backup.sh) создания бэкапа
+
 [скрипт](Files/rsync_restore.sh) восстановления
 
 
