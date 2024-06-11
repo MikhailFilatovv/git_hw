@@ -15,10 +15,6 @@ FROM address
 WHERE district  LIKE 'K%a' and district not LIKE  '% %';
 ```
 
-SELECT DISTINCT district 
-FROM address 
-WHERE district  LIKE 'K%a' and district not LIKE  '% %';
-
 ![Скриншот 1](img/sql1_skrn1.png)
 
 ---
