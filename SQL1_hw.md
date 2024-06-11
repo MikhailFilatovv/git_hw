@@ -31,7 +31,7 @@ FROM payment
 WHERE CAST(payment_date AS DATE)  BETWEEN '2005-06-15' and '2005-06-19' and amount > 10
 ORDER BY payment_date;
 ```
-
+## На самом деле все было правильно, вы бы это поняли, если бы взглянули на скриншот. в блок кода вставил один из первых варинтов и забыл поправить...
 ![Скриншот 1](img/sql1_skrn2.png)
 
 ---
